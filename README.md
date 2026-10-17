@@ -207,4 +207,3 @@ This project also gave me experience breaking a larger UI into smaller component
 ## Screenshots
 
 ![alt text](image.png)
-![alt text](image-1.png)
