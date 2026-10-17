@@ -203,3 +203,8 @@ Building this editor gave me practice with React state, component structure, key
 I also learned that a grid can work well with a small amount of data and still become slow when the number of cells grows. Adding virtualization helped me understand how to improve performance by rendering only the part of the interface the user needs to see.
 
 This project also gave me experience breaking a larger UI into smaller components and testing how different interactions work together.
+
+## Screenshots
+
+![alt text](image.png)
+![alt text](image-1.png)
